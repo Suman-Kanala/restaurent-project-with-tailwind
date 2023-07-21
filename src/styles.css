@@ -1,0 +1,9 @@
+/* styles.css */
+@layer utilities {
+    .grid-template-areas {
+      grid-template-areas: 
+        "header header"
+        "sidebar content"
+        "footer footer";
+    }
+  }
